@@ -1,0 +1,5996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Other_data_items</class>
+ <widget class="QWidget" name="Other_data_items">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1585</width>
+    <height>761</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <kerning>false</kerning>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>其它数据项</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(222, 225, 225);</string>
+  </property>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Heating_Valve1">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Heating_Valve2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>40</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Heating_Valve3">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>70</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Heating_Valve4">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>100</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Heating_Valve5">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>130</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Heating_Valve6">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>160</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Heating_Valve7">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>190</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Heating_Valve8">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>220</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration1">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>250</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制冷初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>280</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制冷初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration3">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>310</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制冷初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration5">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>370</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制冷初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration4">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>340</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制冷初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration6">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>400</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制冷初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration7">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>430</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制冷初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration8">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>460</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制冷初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Minimum_heating_setting_1">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>490</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热最小开度1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Minimum_heating_setting_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>520</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热最小开度2</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Minimum_Cooling_Opening_1">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>550</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷最小开度1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Temperature_Compensation_Value">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>580</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>温度补偿值</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Maintain_initial_valve_opening">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>610</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>铺阀初始开度维持</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Minimum_opening_of_the_heating_valve">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>640</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热铺阀最小开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Minimum_opening_of_refrigeration_expansion_valve">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>670</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷铺阀最小开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Maximum_opening_of_the_heating_floor_valve">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>700</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热铺阀最大开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Maximum_opening_of_heating_valve">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>730</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热铺阀最大开度</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Heating_Valve2">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>40</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Heating_Valve1">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>10</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Heating_Valve4">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>100</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Heating_Valve3">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>70</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Heating_Valve7">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>190</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Heating_Valve6">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>160</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Heating_Valve8">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>220</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Heating_Valve5">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>130</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration5">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>370</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration2">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>280</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration4">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>340</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration6">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>400</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration1">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>250</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration7">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>430</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration8">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>460</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Valve_for_Refrigeration3">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>310</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Minimum_heating_setting_2">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>520</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Temperature_Compensation_Value">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>580</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Maintain_initial_valve_opening">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>610</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Minimum_Cooling_Opening_1">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>550</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Minimum_opening_of_the_heating_valve">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>640</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Minimum_heating_setting_1">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>490</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Minimum_opening_of_refrigeration_expansion_valve">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>670</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Maximum_opening_of_the_heating_floor_valve">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>700</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Maximum_opening_of_heating_valve">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>730</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Maximum_opening_of_refrigeration_expansion_valve_1">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>10</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Maximum_opening_of_refrigeration_expansion_valve_1">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>10</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷铺阀最大开度1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Maximum_opening_of_refrigeration_expansion_valve_2">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>40</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷铺阀最大开度2</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Electric_heating_startup_temperature_difference">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>100</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>电加热启动温差</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Allow_electric_heating_at_ambient_temperature">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>70</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>允许开电加热环境温度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Ring_of_the_initial_speed_of_the_heating_fan_2">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>190</y>
+     <width>131</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热风机初始转速的环</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Temperature_difference_when_electric_heating_stops">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>130</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>电加热停止温差</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Ring_of_the_initial_speed_of_the_heating_fan">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>160</y>
+     <width>131</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热风机初始转速的环</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Pressure_Compensation_Value">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>220</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>压力补偿值</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Exhaust_temperature_derating_value">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>460</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>排气温度减载值</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Ring_of_the_initial_speed_of_the_refrigeration_fan">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>250</y>
+     <width>131</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷风机初始转速的环</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Ring_of_the_initial_speed_of_the_refrigeration_fan_3">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>310</y>
+     <width>131</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷风机初始转速的环</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Exhaust_Temperature_Limit_Loading">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>430</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>排气温度限制加载</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Ring_of_the_initial_speed_of_the_refrigeration_fan_2">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>280</y>
+     <width>131</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷风机初始转速的环</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Ring_of_the_initial_speed_of_the_refrigeration_fan_4">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>340</y>
+     <width>131</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷风机初始转速的环</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Exhaust_Temperature_Protection_Value">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>400</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>排气温度保护值</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Water_discharge_frequency_reduction_and_load_shedding_frequency">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>370</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>出水降频卸载频率</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Heating_Low_Pressure_Limit_Load">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>580</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热低压限制加载</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Heating_Low_Pressure_Load_Reduction_Value">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>610</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热低压减载值</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Refrigeration_Low_Pressure_Protection_Value_1">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>640</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷低压保护值1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Heating_Low_Pressure_Protection_Value_1">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>490</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热低压保护值1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Heating_Low_Pressure_Protection_Value_2">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>520</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热低压保护值2</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Heating_Low_Pressure_Protection_Delay">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>550</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热低压保护延时</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Refrigeration_Low_Pressure_Protection_Value_2">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>670</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷低压保护值2</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Refrigeration_Low_Pressure_Protection_Recovery_Value">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>730</y>
+     <width>121</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷低压保护恢复值</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Refrigeration_low_pressure_protection_value_3">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>700</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷低压保护值3</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Maximum_opening_of_refrigeration_expansion_valve_2">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>40</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Electric_heating_startup_temperature_difference">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>100</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Allow_electric_heating_at_ambient_temperature">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>70</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Ring_of_the_initial_speed_of_the_heating_fan_2">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>190</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Pressure_Compensation_Value">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>220</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Temperature_difference_when_electric_heating_stops">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>130</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Ring_of_the_initial_speed_of_the_heating_fan">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>160</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Exhaust_Temperature_Protection_Value">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>400</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Ring_of_the_initial_speed_of_the_refrigeration_fan_4">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>340</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Water_discharge_frequency_reduction_and_load_shedding_frequency">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>370</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Exhaust_Temperature_Limit_Loading">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>430</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Ring_of_the_initial_speed_of_the_refrigeration_fan">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>250</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Exhaust_temperature_derating_value">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>460</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Ring_of_the_initial_speed_of_the_refrigeration_fan_2">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>280</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Ring_of_the_initial_speed_of_the_refrigeration_fan_3">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>310</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Heating_Low_Pressure_Protection_Delay">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>550</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Heating_Low_Pressure_Protection_Value_1">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>490</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Heating_Low_Pressure_Limit_Load">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>580</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Heating_Low_Pressure_Protection_Value_2">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>520</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Heating_Low_Pressure_Load_Reduction_Value">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>610</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Refrigeration_Low_Pressure_Protection_Value_1">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>640</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Refrigeration_low_pressure_protection_value_3">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>700</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Refrigeration_Low_Pressure_Protection_Value_2">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>670</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Refrigeration_Low_Pressure_Protection_Recovery_Value">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>730</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Refrigeration_low_pressure_limiting_load">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>10</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Refrigeration_low_pressure_limiting_load">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>10</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷低压限制加载</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Refrigeration_Low_Pressure_Load_Shedding">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>40</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Refrigeration_Low_Pressure_Load_Shedding">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>40</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷低压减载</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Refrigeration_high_pressure_limiting_load">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>100</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷高压限制加载</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Refrigeration_Low_Pressure_Limit_Load_Delay">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>70</y>
+     <width>131</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷低压限制加载延时</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Refrigeration_high_pressure_limiting_load">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>100</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Refrigeration_Low_Pressure_Limit_Load_Delay">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>70</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Compressor_current_limit_increase">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>190</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Compressor_current_limit_increase">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>190</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>压缩机电流限制加</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Compressor_Current_Protection_Value">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>160</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>压缩机电流保护值</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Refrigeration_High_Pressure_Load_Shedding">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>130</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷高压减载	</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Compressor_current_derating_value">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>220</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Compressor_Current_Protection_Value">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>160</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Refrigeration_High_Pressure_Load_Shedding">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>130</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Compressor_current_derating_value">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>220</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>压缩机电流减载值</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Heating_Valve4_2">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>460</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Heating_Valve2_2">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>400</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Heating_Valve1_2">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>370</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_valve_heating_initial_opening_9">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>310</y>
+     <width>121</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度9</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_valve_heating_initial_opening_9">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>310</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Heating_Valve3_2">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>430</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Heating_Valve3_2">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>430</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Heating_Low_Pressure_Protection_Recovery_Value">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>280</y>
+     <width>121</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热低压保护恢复值</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Heating_Valve2_2">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>400</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_Opening_of_Main_Heating_Valve1_2">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>370</y>
+     <width>121</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_Opening_of_Main_Heating_Valve4_2">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>460</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Refrigeration_auxiliary_valve_off_ambient_temperature">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>250</y>
+     <width>131</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷关闭辅阀环境温</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_valve_heating_initial_opening_10">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>340</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Heating_Low_Pressure_Protection_Recovery_Value">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>280</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Refrigeration_auxiliary_valve_off_ambient_temperature">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>250</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_valve_heating_initial_opening_10">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>340</y>
+     <width>121</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度10</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Auxiliary_valve_opening_exhaust_overheating">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>640</y>
+     <width>121</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>辅阀开启排气过热度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_opening_of_the_heating_auxiliary_valve">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>580</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热辅阀初始开度</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_opening_of_heating_auxiliary_valve_2">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>520</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Auxiliary_valve_opening_high_pressure_saturation_temperature">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>670</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_opening_of_heating_auxiliary_valve_3">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>550</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热辅阀初始开度3</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Auxiliary_valve_exhaust_temperature_forced_control_value_1">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>730</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Auxiliary_valve_opening_exhaust_temperature">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>700</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_opening_of_the_heating_auxiliary_valve">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>580</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_opening_of_heating_auxiliary_valve_1">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>490</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Auxiliary_valve_opening_high_pressure_saturation_temperature">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>670</y>
+     <width>131</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>辅阀开启高压饱和温度</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_opening_of_the_refrigeration_auxiliary_valve_1">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>610</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_opening_of_heating_auxiliary_valve_1">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>490</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热辅阀初始开度1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_opening_of_the_refrigeration_auxiliary_valve_1">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>610</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷辅阀初始开度1</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Initial_opening_of_heating_auxiliary_valve_3">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>550</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Auxiliary_valve_opening_exhaust_overheating">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>640</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Auxiliary_valve_exhaust_temperature_forced_control_value_1">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>730</y>
+     <width>151</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>辅阀排气温度强制控制值1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Initial_opening_of_heating_auxiliary_valve_2">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>520</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热辅阀初始开度2</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Auxiliary_valve_opening_exhaust_temperature">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>700</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>辅阀开启排气温度</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Auxiliary_valve_exhaust_temperature_mandatory_control">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>10</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Auxiliary_valve_exhaust_temperature_mandatory_control">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>10</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>辅阀排气温度强制控制</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Auxiliary_valve_exhaust_temperature_forced_opening_degree_1">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>40</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Auxiliary_valve_exhaust_temperature_forced_opening_degree_1">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>40</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>辅阀排气温度强开开度1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Forced_overheat_of_auxiliary_valve_exhaust">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>100</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>辅阀排气过热度度强制</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Forced_overheat_of_auxiliary_valve_exhaust">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>100</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Auxiliary_valve_exhaust_temperature_forced_opening_degree_2">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>70</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Auxiliary_valve_exhaust_temperature_forced_opening_degree_2">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>70</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>辅阀排气温度强开开度2</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Outlet_Water_Temperature_Protection_Ring_Temperature_2">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>190</y>
+     <width>121</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>出水温度保护环温2</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Outlet_Water_Temperature_Protection_Ring_Temperature_3">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>220</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Outlet_Water_Temperature_Protection_Loop_1">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>160</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Strongly_close_the_auxiliary_valve_due_to_exhaust_overheating">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>130</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Outlet_Water_Temperature_Protection_Loop_1">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>160</y>
+     <width>121</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>出水温度保护环温1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Strongly_close_the_auxiliary_valve_due_to_exhaust_overheating">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>130</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>辅阀排气过热度强关开</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Outlet_Water_Temperature_Protection_Ring_Temperature_2">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>190</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Outlet_Water_Temperature_Protection_Ring_Temperature_3">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>220</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>出水温度保护环温3</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Load_and_unload_cycle">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>460</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>加卸载周期</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Outlet_Temperature_Protection3">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>340</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Outlet_Temperature_Protection1">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>280</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Load_and_unload_cycle">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>460</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Outlet_Temperature_Protection5">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>400</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Outlet_water_temperature_protection_ambient_temperature_4">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>250</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Install_and_uninstall_frequency">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>430</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>加卸载频率</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Install_and_uninstall_frequency">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>430</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Outlet_Temperature_Protection4">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>370</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Outlet_Temperature_Protection1">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>280</y>
+     <width>131</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>出水温度保护出水温度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Outlet_Temperature_Protection2">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>310</y>
+     <width>131</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>出水温度保护出水温度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Outlet_water_temperature_protection_ambient_temperature_4">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>250</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>出水温度保护环温4</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Outlet_Temperature_Protection5">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>400</y>
+     <width>131</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>出水温度保护出水温度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Outlet_Temperature_Protection4">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>370</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>出水温度保护出水温度</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Outlet_Temperature_Protection2">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>310</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Outlet_Temperature_Protection3">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>340</y>
+     <width>131</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>出水温度保护出水温度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Auxiliary_valve_adjustment_cycle">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>520</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>辅阀调节周期</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Defrost_Frequency">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>610</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Auxiliary_Valve_Adjustment_Cycle_2">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>580</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>辅阀调节周期2</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Auxiliary_Valve_Adjustment_Cycle_2">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>580</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_valve_adjustment_cycle_2">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>550</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀调节周期2</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Defrost_Opening">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>640</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>除霜开度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_valve_adjustment_cycle">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>490</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀调节周期	</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Defrost_Frequency">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>610</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>除霜频率</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Auxiliary_valve_adjustment_cycle">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>520</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_valve_adjustment_cycle">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>490</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Defrost_Opening">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>640</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_valve_adjustment_cycle_2">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>550</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Defrost_Cumulative_Operating_Time">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>730</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Compressor_Code">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>700</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Compressor_Code">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>700</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>压缩机代号</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_System_Configuration_1">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>670</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_System_Configuration_1">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>670</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>系统配置1</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Defrost_Cumulative_Operating_Time">
+   <property name="geometry">
+    <rect>
+     <x>620</x>
+     <y>730</y>
+     <width>111</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>除霜累计运行时间</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Defrosting_ratio_for_multiple_machines_simultaneously">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>10</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Defrosting_ratio_for_multiple_machines_simultaneously">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>10</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>多从机同时除霜比例</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Lower_limit_of_refrigeration_ambient_temperature">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>40</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷环温下限值</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Lower_limit_of_refrigeration_ambient_temperature">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>40</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Mute_frequency">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>100</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Lower_limit_of_heating_loop_temperature">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>70</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热环温下限值</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Mute_frequency">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>100</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>静音频率	</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Lower_limit_of_heating_loop_temperature">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>70</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Ultra_quiet_wind_speed">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>190</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Return_oil_trigger_frequency">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>220</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Silent_Wind_Speed">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>130</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>静音风速</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Mute_frequency_2">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>160</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>超静音频率</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Return_oil_trigger_frequency">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>220</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>回油触发频率	</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Silent_Wind_Speed">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>130</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Ultrasonic_Frequency">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>160</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Ultra_quiet_wind_speed">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>190</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>超静音风速</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Minimum_frequency_of_the_press">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>430</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>压机最小频率</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Maximum_frequency_of_the_press">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>400</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>压机最大频率</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Maximum_wind_speed_of_the_fan">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>340</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Maximum_frequency_of_the_press">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>400</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Minimum_wind_speed_of_the_fan">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>370</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>风机最低风速</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Return_Oil_Trigger_Accumulated_Time">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>250</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>回油触发累计时间</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Minimum_wind_speed_of_the_fan">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>370</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Oil_Return_Execution_Frequency_2">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>280</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>回油执行频率</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Maximum_wind_speed_of_the_fan">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>340</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>风机最高风速</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Startup_frequency">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>460</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>启动频率</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Return_Oil_Trigger_Accumulated_Time">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>250</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Oil_Return_Execution_Frequency">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>280</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Startup_frequency">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>460</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Oil_return_execution_time_2">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>310</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>回油执行时间</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Oil_return_execution_time">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>310</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Minimum_frequency_of_the_press">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>430</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Platform_Frequency_2_Operating_Time">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>610</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Platform_Operating_Frequency_1">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>490</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Platform_Frequency_2_Operating_Time">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>610</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>平台频率2运行时间</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Platform_operating_frequency_3">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>550</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Platform_Frequency_1_Operating_Time">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>580</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>平台频率1运行时间</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Platform_Frequency_3_Runtime">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>640</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Platform_operating_frequency_3">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>550</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>平台运行频率3</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Platform_operating_frequency_2">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>520</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>平台运行频率2</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Platform_Frequency_3_Runtime">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>640</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>平台频率3运行时间</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Platform_Frequency_1_Operating_Time">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>580</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Platform_operating_frequency_2">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>520</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Platform_Operating_Frequency_1">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>490</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>平台运行频率1</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_its_Button_During_the_holding_period_after_the_compressor_finishes_vacuuming">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>670</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_The_four_way_valve_opens_with_a_delay_after_the_press_starts">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>700</y>
+     <width>161</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>压机启动后四通阀延迟开启</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_Valve_Vacuum_Opening">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>730</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_its_Button_During_the_holding_period_after_the_compressor_finishes_vacuuming">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>670</y>
+     <width>161</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>压缩机抽真空结束后维持时</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_Valve_Vacuum_Opening">
+   <property name="geometry">
+    <rect>
+     <x>820</x>
+     <y>730</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀抽真空开度</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_The_four_way_valve_opens_with_a_delay_after_the_press_starts">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>700</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_valve_initial_opening_duration">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>10</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_valve_initial_opening_duration">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>10</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀初始开度维持时间</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Maximum_vacuum_time">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>40</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Maximum_vacuum_time">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>40</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>抽真空最长时间</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Minimize_downtime">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>100</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>压缩最短停机时间</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_First_defrost_time">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>70</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>首次进入除霜时间</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Minimize_downtime">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>100</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_First_defrost_time">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>70</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Maximum_frequency_of_the_freeze_press">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>190</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Winter_anti_freeze_ambient_temperature">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>130</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>冬季防冻环境温度</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Primary_antifreeze_inlet_and_outlet_water_temperature">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>160</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Primary_antifreeze_inlet_and_outlet_water_temperature">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>160</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>一级防冻退出进出水温度</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Winter_anti_freeze_ambient_temperature">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>130</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Level_3_Anti_freeze_Inlet_and_Outlet_Temperature">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>220</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Level_3_Anti_freeze_Inlet_and_Outlet_Temperature">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>220</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>三级防冻进水退出温度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Maximum_frequency_of_the_freeze_press">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>190</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>防冻压机最大频率</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Suction_Overheat_Temperature_for_Overheat_Protection">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>430</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>过热度保护吸气过热度温度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Level_3_antifreeze_outlet_temperature">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>250</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>三级防冻出水退出温度</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Return_air_temperature_protection_value">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>400</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>回气温度保护值</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Suction_Overheat_Temperature_for_Overheat_Protection">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>430</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Maximum_Heating_Loop_Temperature">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>310</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Restore_differential_for_excessively_low_cooling_water_inlet_and_outlet_temperatures">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>370</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷进出水温度过低恢复回差</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Overheat_protection_exhaust_overheat_temperature">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>460</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>过热度保护排气过热度温度</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Maximum_ambient_temperature_for_refrigeration">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>280</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Maximum_ambient_temperature_for_refrigeration">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>280</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷最高环温</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Overheat_protection_exhaust_overheat_temperature">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>460</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Level_3_antifreeze_outlet_temperature">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>250</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Recovery_time_for_excessively_low_refrigerant_inlet_and_outlet_water_temperatures">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>340</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Return_air_temperature_protection_value">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>400</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Restore_differential_for_excessively_low_cooling_water_inlet_and_outlet_temperatures">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>370</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Recovery_time_for_excessively_low_refrigerant_inlet_and_outlet_water_temperatures">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>340</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制冷进出水温度过低恢复时间</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Maximum_Heating_Loop_Temperature">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>310</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>制热最高环温</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_valve_heating_initial_opening_15">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>520</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度15</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_valve_initial_refrigeration_opening_10">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>670</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制冷初始开度10</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_valve_initial_refrigeration_opening_9">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>640</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_valve_heating_initial_opening_16">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>550</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度16</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_valve_heating_initial_opening_16">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>550</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_valve_heating_initial_opening_18">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>610</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度18</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Protection_value_for_excessive_inlet_and_outlet_water_temperature_difference">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>490</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>进出水温差过大保护值</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_valve_initial_refrigeration_opening_10">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>670</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_valve_heating_initial_opening_17">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>580</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_valve_heating_initial_opening_18">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>610</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_valve_initial_refrigeration_opening_9">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>640</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制冷初始开度9</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_valve_heating_initial_opening_15">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>520</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_valve_heating_initial_opening_17">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>580</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制热初始开度17</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Protection_value_for_excessive_inlet_and_outlet_water_temperature_difference">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>490</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_valve_refrigeration_initial_opening_11">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>700</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制冷初始开度11</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_valve_refrigeration_initial_opening_11">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>700</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Main_valve_initial_refrigeration_opening_12">
+   <property name="geometry">
+    <rect>
+     <x>1030</x>
+     <y>730</y>
+     <width>141</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>主阀制冷初始开度12</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Main_valve_initial_refrigeration_opening_12">
+   <property name="geometry">
+    <rect>
+     <x>1190</x>
+     <y>730</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Reserved1">
+   <property name="geometry">
+    <rect>
+     <x>1410</x>
+     <y>10</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Reserved1">
+   <property name="geometry">
+    <rect>
+     <x>1250</x>
+     <y>10</y>
+     <width>61</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>预留	</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Reserved2">
+   <property name="geometry">
+    <rect>
+     <x>1250</x>
+     <y>40</y>
+     <width>61</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>预留	</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Reserved2">
+   <property name="geometry">
+    <rect>
+     <x>1410</x>
+     <y>40</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Reserved4">
+   <property name="geometry">
+    <rect>
+     <x>1410</x>
+     <y>100</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Reserved3">
+   <property name="geometry">
+    <rect>
+     <x>1250</x>
+     <y>70</y>
+     <width>61</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>预留	</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Reserved3">
+   <property name="geometry">
+    <rect>
+     <x>1410</x>
+     <y>70</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Reserved4">
+   <property name="geometry">
+    <rect>
+     <x>1250</x>
+     <y>100</y>
+     <width>61</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>预留	</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Reserved8">
+   <property name="geometry">
+    <rect>
+     <x>1250</x>
+     <y>220</y>
+     <width>61</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>预留	</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Reserved5">
+   <property name="geometry">
+    <rect>
+     <x>1250</x>
+     <y>130</y>
+     <width>61</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>预留	</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Reserved7">
+   <property name="geometry">
+    <rect>
+     <x>1410</x>
+     <y>190</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Reserved7">
+   <property name="geometry">
+    <rect>
+     <x>1250</x>
+     <y>190</y>
+     <width>61</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>预留	</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Reserved5">
+   <property name="geometry">
+    <rect>
+     <x>1410</x>
+     <y>130</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Reserved6">
+   <property name="geometry">
+    <rect>
+     <x>1410</x>
+     <y>160</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_its_Button_Reserved8">
+   <property name="geometry">
+    <rect>
+     <x>1410</x>
+     <y>220</y>
+     <width>41</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>false</bool>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_its_Button_Reserved6">
+   <property name="geometry">
+    <rect>
+     <x>1250</x>
+     <y>160</y>
+     <width>61</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>预留	</string>
+   </property>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_its_Button_Mode_selection_box">
+   <property name="geometry">
+    <rect>
+     <x>1280</x>
+     <y>550</y>
+     <width>281</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>模式选择</string>
+   </property>
+   <widget class="QLabel" name="label_its_Button_Current_mode">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>30</y>
+      <width>61</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>当前模式	</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="comboBox_its_Button_Current_mode">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>30</y>
+      <width>69</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>读取</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>修改</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QGroupBox" name="groupBox_its_Button_Input_box">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>60</y>
+      <width>161</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>读取</string>
+    </property>
+    <widget class="QRadioButton" name="radioButton_its_Button_Select_to_display_host_data">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>20</y>
+       <width>121</width>
+       <height>16</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>选择显示主机数据</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_its_Button_Current_mode_2">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>40</y>
+       <width>61</width>
+       <height>21</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>机组编号:</string>
+     </property>
+    </widget>
+    <widget class="QComboBox" name="comboBox_its_Button_Unit_Number">
+     <property name="geometry">
+      <rect>
+       <x>70</x>
+       <y>40</y>
+       <width>61</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <item>
+      <property name="text">
+       <string>0#</string>
+      </property>
+     </item>
+    </widget>
+    <widget class="QRadioButton" name="radioButton_its_Button_Select_to_display_host_data_2">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>60</y>
+       <width>121</width>
+       <height>16</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>选择显示从机数据</string>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Compressor_Status</class>
+ <widget class="QWidget" name="Compressor_Status">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>290</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>压缩机状态</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>590</width>
+     <height>271</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">/*const QString styles = &quot;QTableView\
+{\
+    selection-background-color: qlineargradient(x1: 0, y1: 0, x2: 0.5, y2: 0.5,\
+                                    stop: 0 #616161, stop: 1 505050);\
+    /*alternate-background-color:blue;*/\
+}&quot;;
+ 
+const QString headerStyle = &quot;QHeaderView::section\
+{\
+    background-color: qlineargradient(x1:0, y1:0, x2:0, y2:1,\
+                                          stop:0 #616161, stop: 0.5 #505050,\
+                                          stop: 0.6 #434343, stop:1 #656565);\
+    color: white;\
+    padding-left: 4px;\
+    border: 1px solid #6c6c6c;\
+}\
+/*QHeaderView::section:checked\
+{\
+    background-color: red;\
+}*/&quot;;*/</string>
+   </property>
+   <column>
+    <property name="text">
+     <string>机组</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>能力</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>平均</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>COMP1</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>COMP2</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>COMP3</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>COMP4</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>COMP5</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>COMP6</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
